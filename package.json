@@ -1,0 +1,40 @@
+{
+  "name": "hubot-cleverbot",
+  "description": "Turns your bot into a snarky little shit",
+  "version": "1.0.0",
+  "author": "Ellis Berner <eberner@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "clever",
+    "bot",
+    "cleverbot"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maletor/hubot-cleverbot.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/maletor/hubot-cleverbot/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "cleverbot-node": "~0.2.1"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
