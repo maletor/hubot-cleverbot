@@ -24,7 +24,7 @@
 
   "dependencies": {
     "coffee-script": "~1.6",
-    "cleverbot-node": "~0.2.1"
+    "cleverbot-node": "~0.3"
   },
 
   "devDependencies": {
