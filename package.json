@@ -2,7 +2,6 @@
   "name": "hubot-cleverbot",
   "description": "Turns your bot into a snarky little shit",
   "version": "2.0.0",
-  "author": "Ellis Berner <eberner@gmail.com>",
   "license": "MIT",
 
   "keywords": [
